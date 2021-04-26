@@ -6,10 +6,10 @@
   ],
   "comments": [
     { "id": 1, "body": "other comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-    { "id": 3, "body": "other comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 3, "body": "other comment", "postId": 1 }
   ],
-  "cobrança": [
+  "cobranca": [
     {"id": 1, "method": "Pix", "expiration_date": "7/2/2021", "value": "50,00" },
     {"id": 2, "method": "Cartão de Credito", "expiration_date": "1/12/2020", "value": "27,00" },
     {"id": 3, "method": "Boleto", "expiration_date": "18/2/2021", "value": "550,00" },
