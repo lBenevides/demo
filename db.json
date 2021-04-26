@@ -16,5 +16,5 @@
     {"id": 5, "method": "Cartão de Credito", "expiration_date": "23/3/2021", "value": "39,00" },
     {"id": 6, "method": "Cartão de Credito", "expiration_date": "27/7/2020", "value": "47,00" },
     {"id": 7, "method": "Boleto", "expiration_date": "24/1/2021", "value": "84,00" }
-  ],
+  ]
 }
