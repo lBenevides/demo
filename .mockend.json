@@ -1,0 +1,11 @@
+{
+  "cobrança": [
+    {"id": 1, "method": "Pix", "expiration_date": "7/2/2021", "value": "50,00" },
+    {"id": 2, "method": "Cartão de Credito", "expiration_date": "1/12/2020", "value": "27,00" },
+    {"id": 3, "method": "Boleto", "expiration_date": "18/2/2021", "value": "550,00" },
+    {"id": 4, "method": "Pix", "expiration_date": "8/1/2021", "value": "135,00" },
+    {"id": 5, "method": "Cartão de Credito", "expiration_date": "23/3/2021", "value": "39,00" },
+    {"id": 6, "method": "Cartão de Credito", "expiration_date": "27/7/2020", "value": "47,00" },
+    {"id": 7, "method": "Boleto", "expiration_date": "24/1/2021", "value": "84,00" }
+  ]
+}
