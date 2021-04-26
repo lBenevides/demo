@@ -7,6 +7,7 @@
   "comments": [
     { "id": 1, "body": "other comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 3, "body": "other comment", "postId": 1 },
   ],
   "cobrança": [
     {"id": 1, "method": "Pix", "expiration_date": "7/2/2021", "value": "50,00" },
