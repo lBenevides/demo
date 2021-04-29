@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
@@ -17,6 +17,15 @@
     {"id": 5, "method": "Cartão de Credito", "expiration_date": "23/03/2021", "value": "39,00" },
     {"id": 6, "method": "Cartão de Credito", "expiration_date": "27/07/2020", "value": "47,00" },
     {"id": 7, "method": "Boleto", "expiration_date": "24/01/2021", "value": "84,00" }
+  ],
+  "payment_methods": [
+    {"method": "Pix"},
+    {"method": "Cartão de Credito"},
+    {"method": "Boleto" },
+    {"method": "Pix"},
+    {"method": "Cartão de Credito"},
+    {"method": "Cartão de Credito"},
+    {"method": "Boleto"}
   ],
   "profile": {
     "name": "typicode"
