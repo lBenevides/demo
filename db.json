@@ -21,11 +21,7 @@
   "payment_methods": [
     {"method": "Pix"},
     {"method": "Cartão de Credito"},
-    {"method": "Boleto" },
-    {"method": "Pix"},
-    {"method": "Cartão de Credito"},
-    {"method": "Cartão de Credito"},
-    {"method": "Boleto"}
+    {"method": "Boleto" }
   ],
   "profile": {
     "name": "typicode"
